@@ -8,6 +8,10 @@ header {
     text-align: center;
 }
 
+h1 {
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.527);
+}
+
 section {
     background: white;
     border-radius: 10px;
@@ -29,4 +33,7 @@ footer {
     color: white;
     text-align: center;
     font-style: italic;
+}
+p#rodape {
+    font: normal 12pt Arial;
 }
